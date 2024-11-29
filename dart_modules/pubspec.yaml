@@ -1,0 +1,9 @@
+name: dart_modules
+description: dart_modules
+version: 1.0.0
+
+# Specify the Dart SDK version constraints
+environment:
+  sdk: ^3.2.5
+dependencies:
+  crypto: ^3.0.3

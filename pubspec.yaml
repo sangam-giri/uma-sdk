@@ -1,0 +1,21 @@
+name: my_project
+description: A sample Dart project
+version: 1.0.0
+publish_to: none
+
+# Specify the Dart SDK version constraints
+environment:
+  sdk: ^3.2.5
+
+dependencies:
+  dart_modules:
+    path: ./dart_modules
+  # Add your project dependencies here
+  dio: ^5.4.0
+
+dev_dependencies:
+  # Add your development dependencies here
+  test: ^1.0.0
+
+# Define any additional metadata for your package
+# ...
