@@ -1,0 +1,19 @@
+{
+    "name": "uma-cli",
+    "version": "1.0.0",
+    "description": "Default CLI Commands",
+    "author": "Samarth Technical Research and Innovations",
+    "commands": [
+      {
+        "name": "Create Project",
+        "description": "Command used to create a new uma project",
+        "usage": "uma new <project_name>"
+      },
+      {
+        "name": "Start Server",
+        "description": "Command us used to start the uma server",
+        "usage": "uma run start:server"
+      }
+    ]
+  }
+  
